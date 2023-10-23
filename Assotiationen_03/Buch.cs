@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace M320_IMS
+namespace Assotiationen_03
 {
-    internal class MyMath
+    internal class Buch
     {
     }
 }

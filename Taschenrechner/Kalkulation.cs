@@ -1,6 +1,6 @@
 ﻿class Calculator
 {
-    private int lastResult = 0; // Interner Zustand zur Speicherung des letzten Ergebnisses
+    private int lastResult = 0; 
 
     public int Add(params int[] operands)
     {

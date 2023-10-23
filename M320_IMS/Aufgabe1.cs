@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace M320_IMS
 {
-    internal class MyMath
+    internal class Aufgabe1
     {
     }
 }
