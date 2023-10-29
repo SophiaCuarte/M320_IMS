@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class Circle : Shape
+    public class Circle : Figure
     {
         public float Radius { get; set; }
 

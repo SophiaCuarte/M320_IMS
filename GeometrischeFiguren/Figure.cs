@@ -2,12 +2,12 @@
 {
     using System;
 
-    public class Shape
+    public class Figure
     {
         public float X { get; set; }
         public float Y { get; set; }
 
-        public Shape(float x, float y)
+        public Figure(float x, float y)
         {
             X = x;
             Y = y;

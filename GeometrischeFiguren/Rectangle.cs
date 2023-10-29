@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class Rectangle : Shape, IRotatable
+    public class Rectangle : Figure, IRotatable
     {
         private float _length1 = 100;
         private float _length2 = 50;

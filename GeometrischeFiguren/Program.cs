@@ -8,13 +8,13 @@ namespace GeometrischeFiguren
     {
         static void Main(string[] args)
         {
-            List<Shape> shapes = new List<Shape>();
+            List<Figure> shapes = new List<Figure>();
 
             shapes.Add(new Circle(5));
             shapes.Add(new Rectangle(6, 4));
             shapes.Add(new Square(3));
 
-            foreach (Shape shape in shapes)
+            foreach (Figure shape in shapes)
             {
                 shape.PrintPosition();
                 shape.PrintArea();
